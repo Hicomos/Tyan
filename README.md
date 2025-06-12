@@ -34,10 +34,10 @@ git clone https://github.com/yourusername/tyan.git
 
 ## 🖼️ 截图预览
 
-![主界面截图](app/src/main/图片1.png)
-![悬浮窗截图](app/src/main/图片2.png)
-![本地上传截图](app/src/main/图片3.png)
-![图标](app/src/main/tubiao-playstore.png)
+![主界面截图](Tyan/app/src/main/图片1.png)
+![悬浮窗截图](Tyan/app/src/main/图片2.png)
+![本地上传截图](Tyan/app/src/main/图片3.png)
+![图标](Tyan/app/src/main/tubiao-playstore.png)
 
 ## 🏗️ 项目结构
 
