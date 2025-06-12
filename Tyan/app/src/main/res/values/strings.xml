@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Tyan</string>
+    <string name="app_icon">App Icon</string>
+    <string name="floating_window">开启悬浮窗</string>
+    <string name="style_settings">风格设置</string>
+    <string name="local_image_reply">本地图片回复</string>
+    <string name="floating_window_permission">需要悬浮窗权限</string>
+    <string name="floating_window_permission_description">请授予悬浮窗权限以启用悬浮球功能</string>
+    <string name="grant">授予</string>
+    <string name="cancel">取消</string>
+    
+    <!-- Style Settings Screen -->
+    <string name="back">返回</string>
+    <string name="scene">场景</string>
+    <string name="scene_hint">请输入对话场景，如：工作交流</string>
+    <string name="tone">语气</string>
+    <string name="tone_hint">请描述回复语气，如：专业、友好</string>
+    <string name="reply_target">回复对象</string>
+    <string name="target_hint">请输入交流对象，如：客户</string>
+    <string name="other_requirements">其他要求</string>
+    <string name="other_requirements_hint">请输入其他特殊要求</string>
+    <string name="api_key">Key</string>
+    <string name="api_key_hint">请输入您的API Key</string>
+    <string name="url">URL</string>
+    <string name="url_hint">请输入API URL</string>
+    <string name="model_name">模型名称</string>
+    <string name="model_name_hint">请输入模型名称</string>
+    <string name="save">确认</string>
+    <string name="settings_saved">设置已保存</string>
+    <string name="view">查看</string>
+    <string name="document_icon">文档图标</string>
+    <string name="settings_icon">设置图标</string>
+    <string name="person_icon">人物图标</string>
+    <string name="info_icon">信息图标</string>
+    
+    <!-- Local Image Reply Screen -->
+    <string name="click_to_upload">点击上传图片</string>
+    <string name="support_local_upload">支持本地上传</string>
+    <string name="uploaded_image">上传的图片</string>
+    <string name="image_ready_prompt">请上传一张图片，我们为您进行分析和推荐。</string>
+    <string name="input_message_hint">输入消息...</string>
+    <string name="send_button">发送按钮</string>
+    <string name="loading">正在生成回复...</string>
+    <string name="image_load_error">图片加载失败</string>
+    <string name="storage_permission_denied">存储权限被拒绝，无法选择图片</string>
+    <string name="permission_required">需要权限</string>
+    <string name="permission_required_message">访问图片需要存储权限。请在设置中允许应用访问照片和视频。</string>
+    <string name="go_to_settings">前往设置</string>
+    <string name="please_upload_image">请先上传图片</string>
+    <string name="network_error">网络错误，请检查您的网络连接</string>
+    <string name="parse_error">解析响应时出错</string>
+    <!-- 截屏功能相关 -->
+    <string name="screenshot_permission_denied">截屏权限被拒绝</string>
+    <string name="screenshot_permission_granted">截屏权限已授予</string>
+    <string name="taking_screenshot">正在截取屏幕...</string>
+    <string name="long_screenshot_started">长截屏开始</string>
+    <string name="long_screenshot_ending">长截屏结束中...</string>
+    <string name="long_screenshot_tip">长截屏已开始，松开悬浮球结束截屏</string>
+    <string name="initializing">初始化中...</string>
+    <string name="processing_screenshot">正在处理截图并发送到大模型...</string>
+    <string name="screenshot_failed">截屏失败</string>
+    <string name="api_error">调用API时出错，错误代码：</string>
+    <string name="json_error">创建请求时出错</string>
+    <string name="copied_to_clipboard">已复制到剪贴板</string>
+    <string name="copy_failed">复制到剪贴板失败，请重试</string>
+    <string name="screenshot_saved">截图已保存到相册</string>
+    <string name="save_failed">保存截图失败</string>
+    <string name="clipboard_content_pasted">已自动粘贴剪贴板内容</string>
+    <string name="sending_to_model">正在发送截图给大模型...</string>
+</resources>
